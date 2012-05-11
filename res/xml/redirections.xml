@@ -23,6 +23,10 @@
         android:minSdkVersion="7"
         android:resource="@xml/android" />
 
+    <package-redirections android:name="com.anddoes.launcher"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_anddoes_launcher" />
+
     <package-redirections android:name="com.cyanogenmod.trebuchet"
         android:minSdkVersion="7"
         android:resource="@xml/com_cyanogenmod_trebuchet" />
