@@ -57,38 +57,6 @@
     <color name="dim_foreground_light_inverse">#bebebe</color>
     <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
     <color name="hint_foreground_light">#808080</color>
-    <color name="holo_blue_light">#ff92f001</color>
-    <color name="holo_blue_dark">#ff6db400</color>
-    <color name="holo_green_light">#ff92f001</color>
-    <color name="holo_green_dark">#ff6db400</color>
-    <color name="holo_red_light">#ff92f001</color>
-    <color name="holo_red_dark">#ff6db400</color>
-    <color name="holo_orange_light">#ff92f001</color>
-    <color name="holo_orange_dark">#ff6db400</color>
-    <color name="holo_purple">#ff92f001</color>
-    <color name="holo_blue_bright">#ff92f001</color>
-    <color name="highlighted_text_dark">#996db400</color>
-    <color name="highlighted_text_light">#9992f001</color>
-    <color name="link_text_dark">#ffaaaaaa</color>
-    <color name="link_text_light">#ff333333</color>
-    <color name="suggestion_highlight_text">#ffffffff</color>
-    <color name="perms_dangerous_grp_color">#ffffffff</color>
-    <color name="perms_dangerous_perm_color">#ffffffff</color>
-    <color name="search_url_text_normal">#ff999999</color>
-    <color name="keyguard_text_color_unlock">#ffffffff</color>
-    <color name="keyguard_text_color_soundon">#ffffffff</color>
-    <color name="keyguard_text_color_decline">#ffffffff</color>
-    <color name="lockscreen_clock_background">#cc000000</color>
-    <color name="lockscreen_owner_info">#ffffffff</color>
-    <color name="highlighted_text_holo_dark">#666db400</color>
-    <color name="highlighted_text_holo_light">#6692f001</color>
-    <color name="link_text_holo_dark">#ff6db400</color>
-    <color name="link_text_holo_light">#ff92f001</color>
-    <color name="group_button_dialog_pressed_holo_dark">#466db400</color>
-    <color name="group_button_dialog_focused_holo_dark">#266db400</color>
-    <color name="group_button_dialog_focused_holo_light">#4692f001</color>
-    <color name="legacy_pressed_highlight">#ff808080</color>
-    <color name="legacy_selected_highlight">#ff808080</color>
 
     <drawable name="input_method_fullscreen_background">#fff9f9f9</drawable>
 
@@ -100,6 +68,10 @@
     <color name="darker_gray">#aaa</color>
 
     <!-- For security permissions -->
+    <color name="perms_dangerous_grp_color">#ff92f001</color>
+    <color name="perms_dangerous_perm_color">#ff66cc00</color>
+    <color name="shadow">#cc222222</color>
+
     <color name="launcher_glow_pressed">#ff6db400</color>
     <color name="launcher_glow_focused">#ff92f001</color>
 
