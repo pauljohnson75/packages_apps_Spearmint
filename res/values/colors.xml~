@@ -104,8 +104,8 @@
     <color name="launcher_glow_focused">#ff92f001</color>
 
     <color name="androidian_green">#ff92f001</color>
-    <color name="androidian_green_dark">#ff6db400</color>
-    <color name="androidian_green_bright">#ff13b400</color>
+    <color name="androidian_green_dark">#ffaadd00</color>
+    <color name="androidian_green_bright">#ff77aa00</color>
 
 </resources>
 
