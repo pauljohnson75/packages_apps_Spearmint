@@ -25,4 +25,8 @@
     <item name="drawable/ic_zoom_slider_pressed">@drawable/com_android_camera_ic_zoom_slider_pressed</item>
     <item name="drawable/list_pressed_holo_light">@drawable/com_android_camera_list_pressed_holo_light</item>
     <item name="mipmap/ic_launcher_camera">@drawable/com_android_camera_ic_launcher_camera</item>
+    <item name="color/review_control_pressed_color">@color/review_control_pressed_color</item>
+    <item name="color/review_control_pressed_fan_color">@color/review_control_pressed_fan_color</item>
+    <item name="color/popup_title_color">@color/popup_title_color</item>
+    <item name="color/mode_selection_border">@color/mode_selection_border</item>
 </resource-redirections>

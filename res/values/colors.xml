@@ -107,5 +107,24 @@
     <color name="androidian_green_dark">#ff6db400</color>
     <color name="androidian_green_bright">#ff13b400</color>
 
+    <!-- For Browser -->
+    <color name="qc_normal">#E092f001</color>
+    <color name="qc_selected">#F06db400</color>
+
+    <!-- For Calendar -->
+    <color name="today_highlight_color">#0092f001</color>
+    <color name="event_background">#ff92f001</color>
+    <color name="calendar_grid_area_selected">#e692f001</color>
+    <color name="appwidget_row_in_progress">#6692f001</color>
+
+    <!-- For Camera -->
+    <color name="review_control_pressed_color">#FF92f001</color>
+    <color name="review_control_pressed_fan_color">#3F92f001</color>
+    <color name="popup_title_color">#ff92f001</color>
+    <color name="mode_selection_border">#92f001</color>
+
+    <!-- For Phone -->
+    <color name="incall_call_state_label_background">#8092f001</color>
+    <color name="people_app_theme_color">#92f001</color>
 </resources>
 
